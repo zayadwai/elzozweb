@@ -1,0 +1,16 @@
+*{
+    text-decoration: none;
+    font-family: sans-serif;
+}
+body{
+    display: block;
+    margin: 8px;
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+h4{
+    font-size: 30px;
+    background-color: antiquewhite;
+}
